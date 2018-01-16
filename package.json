@@ -1,0 +1,15 @@
+{
+  "name": "homekit-light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "light.js",
+  "scripts": {
+    "start": "node light.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "homekit": "0.0.3",
+    "node-lifx": "0.8.0"
+  }
+}
